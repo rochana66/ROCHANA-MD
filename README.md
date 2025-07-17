@@ -2,7 +2,7 @@
 
 -----------
 
-![Image](https://i.ibb.co/ynXXSRPM/Queen-Rashu-Md.jpg)
+![Image](https://res.cloudinary.com/df2rnoijw/image/upload/v1752740024/bankl0exnr8remsz8t32.jpg)
 
 -----------
 -----------
@@ -11,20 +11,20 @@
 
 -----------
 
-### <br>  ❖ SENU-X-BOT ❖
-**`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY SENU-X-BOT 🩶`**
+### <br>  ❖ ROCHANA-MD-BOT ❖
+**`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY ROCHANA-MD-BOT 🩶`**
 
 ```
-https://github.com/JESTER-EXE/SENU-X-BOT
+https://github.com/Rochana99/ROCHANA-MD
 ```
 ---
 
-> **SENU-X-BOT VERSION ➜ `3.0.1 ♻️`**
+> **ROCHANA-MD-BOT VERSION ➜ `3.0.1 ♻️`**
 ---
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=SENU-X-BOT;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+JESTER-EXE;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ROCHANA-MD-BOT;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+ROCHANA-MD;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
@@ -32,23 +32,23 @@ https://github.com/JESTER-EXE/SENU-X-BOT
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARKSILENCE04/DARK-SILENCE-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARKSILENCE04/DARK-SILENCE-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKSILENCE04/DARK-SILENCE-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-JESTER-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-ROCHANA-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SENU-X-BOT&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=ROCHANA-MD-BOT&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 ---------
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+SENU-X-BOT;IS+THE+UPDATE+VERSION;OF+SENU-X-BOT;BEST+MULTI+DEVICE+BOT;CREATED+BY+JESTER+432" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+ROCHANA-MD-BOT;IS+THE+UPDATE+VERSION;OF+ROCHANA-MD-BOT;BEST+MULTI+DEVICE+BOT;CREATED+BY+ROCHANA+432" alt="Typing SVG" /></a>
   </p>
   
 
   
 ----
 
-![Image](https://files.catbox.moe/f08cck.jpg)
+![Image](https://res.cloudinary.com/df2rnoijw/image/upload/v1752740024/bankl0exnr8remsz8t32.jpg)
 
 ----
 
@@ -56,13 +56,13 @@ https://github.com/JESTER-EXE/SENU-X-BOT
 
 ----------
 
-### <br>01.  ❖ FORK SENU-X-BOT ❖
+### <br>01.  ❖ FORK ROCHANA-MD-BOT ❖
 
 -----------
 
-**`FORK 🍴 AND STAR ⭐ SENU-X-BOT`**
+**`FORK 🍴 AND STAR ⭐ ROCHANA-MD-BOT`**
 
-  <a href="https://github.com/JESTER-EXE/SENU-X-BOT/fork"><img title="SENU-X-BOT" src="https://img.shields.io/badge/FORK-SENU%20X%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Rochana99/ROCHANA-MD/fork"><img title="ROCHANA-MD-BOT" src="https://img.shields.io/badge/FORK-SENU%20X%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### <br>02.  ❖ GET SESSION-I'D ❖
 
@@ -83,7 +83,7 @@ https://github.com/JESTER-EXE/SENU-X-BOT
 ----------
 
 <p align="center">
-<a href='https://senu-md-pair-8o5q.onrender.com' target="_blank">
+<a href='https://38d45b87-4319-41a9-ba84-ec3ff723d12f-00-1kc6685co9qas.pike.replit.dev/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
  
@@ -93,7 +93,7 @@ https://github.com/JESTER-EXE/SENU-X-BOT
 
 ---
 
-### <h2 align="">❖ SENU-X-BOT DEPLOYMENT OPTIONS ❖</h2>
+### <h2 align="">❖ ROCHANA-MD-BOT DEPLOYMENT OPTIONS ❖</h2>
 
 ---
 
@@ -103,11 +103,11 @@ https://github.com/JESTER-EXE/SENU-X-BOT
 
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JESTER-EXE/SENU-X-BOT" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Rochana99/ROCHANA-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JESTER-EXE/SENU-X-BOT" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ROCHANA-MD/ROCHANA-MD-BOT" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -120,7 +120,7 @@ https://github.com/JESTER-EXE/SENU-X-BOT
 <table align="center">
   <tr>
     <td>
-      <a href="https://whatsapp.com/channel/0029Vb2OcviBFLgPzVjWhE0n" target="_blank">
+      <a href="https://whatsapp.com/channel/0029VbB04YkHAdNamg1Ob22V" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
       </a>
     </td>
@@ -128,12 +128,12 @@ https://github.com/JESTER-EXE/SENU-X-BOT
 </table>  
 
 <div align="center">
-  <img src="https://github.com/JESTER-EXE/SENU-X-BOT/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Rochana99/ROCHANA-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
 
 -------------
 
-**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF SENU-X-BOT ✠***
+**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF ROCHANA-MD-BOT ✠***
 
 ```
 name: Node.js CI
@@ -175,15 +175,15 @@ jobs:
 
 
 ## 👑 ✠ PROJECT OWNER ✠
-`HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME JESTER-EXE࿐➺`
+`HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ROCHANA-MD࿐➺`
 
 <p align="">
-<a href='https://wa.me/+94788770020?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+SENU+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+94766443560?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+ROCHANA+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## ⚖️ ✠ SUPPORT CHANNEL ✠
-`✠ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY OF SENU-X-BOT BY JOINING OUR OFFICIAL WHATSAPP CHANNEL.✠`
+`✠ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY OF ROCHANA-MD-BOT BY JOINING OUR OFFICIAL WHATSAPP CHANNEL.✠`
 
 
 [![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb2OcviBFLgPzVjWhE0n)
@@ -196,9 +196,9 @@ jobs:
 ## <h2 align="left">⚠️ REMINDER </h2>
 <p style="text-align: center; font-size: 1.2em;">
 
-- **WARNING:** SENU-X-BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
+- **WARNING:** ROCHANA-MD-BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
 - MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
-- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING THANKS FOR USING SENU-X-BOT ❤️.
+- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING THANKS FOR USING ROCHANA-MD-BOT ❤️.
 
 ---
 
@@ -214,7 +214,7 @@ jobs:
  
  ---
 
-<h3 align="center"> DON'T USE SENU-X-BOT SCRIPT WITHOUT PERMISSION OF © JESTER-EXE
+<h3 align="center"> DON'T USE ROCHANA-MD-BOT SCRIPT WITHOUT PERMISSION OF © ROCHANA-MD
 </h3>
 
 <br>
@@ -226,7 +226,7 @@ THANKS TO DIZER,CYROX,NETHU,NOTHING,SPECIAL THANKS 😊 SXD TEAM FOR SCRIPT❤�
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ------  <a href="https://github.com/JawadYT36">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jester36&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ROCHANA36&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 
@@ -234,7 +234,7 @@ THANKS TO DIZER,CYROX,NETHU,NOTHING,SPECIAL THANKS 😊 SXD TEAM FOR SCRIPT❤�
   <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 JESTER STATUS
+## 👑 ROCHANA STATUS
 
 ```diff
 + Project Status: Active
