@@ -74,7 +74,7 @@ https://github.com/Rochana99/ROCHANA-MD
 ----------
 
 <p align="center">
-<a href='https://senu-md-pair-8o5q.onrender.com' target="_blank">
+<a href='https://replit.com/@vshajwggwhwh/rochanamd-pair?v=1' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
